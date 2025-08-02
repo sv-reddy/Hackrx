@@ -200,6 +200,5 @@ Your Advanced RAG API is now **FULLY COMPLIANT** with all HackRX requirements an
 - ✅ Production-ready deployment
 
 **API Endpoint**: `POST http://localhost:8008/hackrx/run`  
-**Auth Token**: `Bearer cb5fdf02591092183b718e72f9ff9b98bbbca27a92cdcafd1daf32f87a8d6633`
 
 🎉 **Your implementation is ready for HackRX submission!**
