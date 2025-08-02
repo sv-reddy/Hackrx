@@ -88,18 +88,6 @@ Your Advanced RAG API is now fully compliant with all HackRX requirements and in
 └── hackrx_format_test.py    # Format compliance validation
 ```
 
-### **Environment Configuration**
-```bash
-# .env file contents
-HACKRX_AUTH_TOKEN=cb5fdf02591092183b718e72f9ff9b98bbbca27a92cdcafd1daf32f87a8d6633
-GROQ_API_KEY_1=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
-GROQ_API_KEY_2=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
-GROQ_API_KEY_3=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
-GROQ_API_KEY_4=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
-API_HOST=0.0.0.0
-API_PORT=8008
-```
-
 ---
 
 ## 🚀 **Deployment & Usage**
